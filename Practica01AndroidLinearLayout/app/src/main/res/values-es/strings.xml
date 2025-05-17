@@ -1,0 +1,7 @@
+<resources>
+    <string name="lbl_name">Escribe tu nombre:</string>
+    <string name="lbl_hint">Escribe aquí:</string>
+    <string name="btn_send">Enviar</string>
+    <string name="message_no_name">Por favor escriba su nombre</string>
+    <string name="welcome_message">Hola %s ! Bienvenido :D</string>
+</resources>

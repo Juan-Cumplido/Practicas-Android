@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practica-01-Android-LinearLayout</string>
+    <string name="lbl_name">your name:</string>
+    <string name="lbl_hint">Write here:</string>
+    <string name="btn_send">Send</string>
+    <string name="message_no_name">Please write your name</string>
+    <string name="welcome_message">Hi %s ! Welcome :D</string>
+</resources>
